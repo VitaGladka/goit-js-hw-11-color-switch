@@ -17,15 +17,14 @@ button:active {
   cursor: pointer;
 }
 
-.section {
-  width: 95vw;
-  height: 95vh;
-  position: absolute;
-}
-
 .box {
   text-align: center;
   top: 30%;
+}
+.section {
+  width: 95%;
+  height: 95%;
+  position: absolute;
 }
 
 .stop {
